@@ -1,0 +1,15 @@
+C:\Users\Gary\Documents\Practica\Programacion III\Ejercicios practicos N°1 programacion III\Ejercicios practicos N°1 programacion III\bin\Debug\net8.0\Ejercicios practicos N°1 programacion III.exe
+C:\Users\Gary\Documents\Practica\Programacion III\Ejercicios practicos N°1 programacion III\Ejercicios practicos N°1 programacion III\bin\Debug\net8.0\Ejercicios practicos N°1 programacion III.deps.json
+C:\Users\Gary\Documents\Practica\Programacion III\Ejercicios practicos N°1 programacion III\Ejercicios practicos N°1 programacion III\bin\Debug\net8.0\Ejercicios practicos N°1 programacion III.runtimeconfig.json
+C:\Users\Gary\Documents\Practica\Programacion III\Ejercicios practicos N°1 programacion III\Ejercicios practicos N°1 programacion III\bin\Debug\net8.0\Ejercicios practicos N°1 programacion III.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Ejercicios practicos N°1 programacion III\Ejercicios practicos N°1 programacion III\bin\Debug\net8.0\Ejercicios practicos N°1 programacion III.pdb
+C:\Users\Gary\Documents\Practica\Programacion III\Ejercicios practicos N°1 programacion III\Ejercicios practicos N°1 programacion III\obj\Debug\net8.0\Ejercicios practicos N°1 programacion III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gary\Documents\Practica\Programacion III\Ejercicios practicos N°1 programacion III\Ejercicios practicos N°1 programacion III\obj\Debug\net8.0\Ejercicios practicos N°1 programacion III.AssemblyInfoInputs.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Ejercicios practicos N°1 programacion III\Ejercicios practicos N°1 programacion III\obj\Debug\net8.0\Ejercicios practicos N°1 programacion III.AssemblyInfo.cs
+C:\Users\Gary\Documents\Practica\Programacion III\Ejercicios practicos N°1 programacion III\Ejercicios practicos N°1 programacion III\obj\Debug\net8.0\Ejercicios practicos N°1 programacion III.csproj.CoreCompileInputs.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Ejercicios practicos N°1 programacion III\Ejercicios practicos N°1 programacion III\obj\Debug\net8.0\Ejercicios practicos N°1 programacion III.sourcelink.json
+C:\Users\Gary\Documents\Practica\Programacion III\Ejercicios practicos N°1 programacion III\Ejercicios practicos N°1 programacion III\obj\Debug\net8.0\Ejercicios practicos N°1 programacion III.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Ejercicios practicos N°1 programacion III\Ejercicios practicos N°1 programacion III\obj\Debug\net8.0\refint\Ejercicios practicos N°1 programacion III.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Ejercicios practicos N°1 programacion III\Ejercicios practicos N°1 programacion III\obj\Debug\net8.0\Ejercicios practicos N°1 programacion III.pdb
+C:\Users\Gary\Documents\Practica\Programacion III\Ejercicios practicos N°1 programacion III\Ejercicios practicos N°1 programacion III\obj\Debug\net8.0\Ejercicios practicos N°1 programacion III.genruntimeconfig.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Ejercicios practicos N°1 programacion III\Ejercicios practicos N°1 programacion III\obj\Debug\net8.0\ref\Ejercicios practicos N°1 programacion III.dll
