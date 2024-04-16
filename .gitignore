@@ -1,1 +1,42 @@
-/Ejercicios practicos N°1 programacion III/Ejercicios practicos N°1 programacion III/bin
+# Archivos de compilación
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userprefs
+debug/
+release/
+
+# Archivos de paquetes
+*.nupkg
+# Evitar subir los archivos de paquetes descargados con NuGet
+# Descomenta la siguiente línea si necesitas rastrear los archivos .dll en tu repositorio
+#packages/
+
+# Archivos de Microsoft Visual Studio
+**/[Rr]elease/
+**/[Dd]ebug/
+*.vspscc
+*.vssscc
+.vs/
+
+# Archivos de Resharper
+/_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Teamcity
+_build/
+*.cidr
+
+# Archivos de Node.js
+node_modules/
+
+# Archivos de registro
+*.log
+
+# Archivos de la base de datos de SQLite
+*.sqlite
+
+# Archivos de configuración local
+appsettings.json
+appsettings.Development.json
