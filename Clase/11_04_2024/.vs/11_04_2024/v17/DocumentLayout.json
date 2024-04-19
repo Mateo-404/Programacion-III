@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\11_04_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBE63A6-AAA3-42F8-95DD-55BD8ACD8598}|11_04_2024\\11_04_2024.csproj|c:\\users\\gary\\documents\\practica\\programacion iii\\clase\\11_04_2024\\11_04_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBE63A6-AAA3-42F8-95DD-55BD8ACD8598}|11_04_2024\\11_04_2024.csproj|solutionrelative:11_04_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\11_04_2024\\11_04_2024\\Program.cs",
+              "RelativeDocumentMoniker": "11_04_2024\\Program.cs",
+              "ToolTip": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\11_04_2024\\11_04_2024\\Program.cs",
+              "RelativeToolTip": "11_04_2024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T01:56:42.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

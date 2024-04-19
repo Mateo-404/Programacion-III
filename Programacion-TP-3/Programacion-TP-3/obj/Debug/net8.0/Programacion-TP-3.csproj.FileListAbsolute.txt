@@ -1,0 +1,15 @@
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Programacion-TP-3\bin\Debug\net8.0\Programacion-TP-3.exe
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Programacion-TP-3\bin\Debug\net8.0\Programacion-TP-3.deps.json
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Programacion-TP-3\bin\Debug\net8.0\Programacion-TP-3.runtimeconfig.json
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Programacion-TP-3\bin\Debug\net8.0\Programacion-TP-3.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Programacion-TP-3\bin\Debug\net8.0\Programacion-TP-3.pdb
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Programacion-TP-3\obj\Debug\net8.0\Programacion-TP-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Programacion-TP-3\obj\Debug\net8.0\Programacion-TP-3.AssemblyInfoInputs.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Programacion-TP-3\obj\Debug\net8.0\Programacion-TP-3.AssemblyInfo.cs
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Programacion-TP-3\obj\Debug\net8.0\Programacion-TP-3.csproj.CoreCompileInputs.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Programacion-TP-3\obj\Debug\net8.0\Programacion-TP-3.sourcelink.json
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Programacion-TP-3\obj\Debug\net8.0\Programacion-TP-3.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Programacion-TP-3\obj\Debug\net8.0\refint\Programacion-TP-3.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Programacion-TP-3\obj\Debug\net8.0\Programacion-TP-3.pdb
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Programacion-TP-3\obj\Debug\net8.0\Programacion-TP-3.genruntimeconfig.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Programacion-TP-3\obj\Debug\net8.0\ref\Programacion-TP-3.dll
