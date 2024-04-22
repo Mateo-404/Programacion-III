@@ -1,7 +1,7 @@
 # Ejercicios sobre Miembros Estáticos y No Estáticos en C#
 
 ## Universidad Tecnológica Nacional - Facultad Regional Rafaela (UTN-FRRA)
-### Tecnología en Sistemas de Programación (TSP)
+### Tecnicatura Superior en Programación (TUP)
 ### Año: 2024
 
 Este trabajo práctico se realiza de manera individual. Cada alumno deberá entregar todos los ejercicios, cada uno como un proyecto separado. Todos los proyectos deben estar dentro de un archivo zip o rar llamado `Apellido_Nombre.zip` o `Apellido_Nombre.rar`.

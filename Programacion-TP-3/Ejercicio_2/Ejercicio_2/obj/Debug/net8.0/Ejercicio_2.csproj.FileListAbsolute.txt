@@ -1,0 +1,15 @@
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_2\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.exe
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_2\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.deps.json
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_2\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.runtimeconfig.json
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_2\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_2\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.pdb
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.AssemblyInfoInputs.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.AssemblyInfo.cs
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.sourcelink.json
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\refint\Ejercicio_2.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.pdb
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.genruntimeconfig.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_2\Ejercicio_2\obj\Debug\net8.0\ref\Ejercicio_2.dll

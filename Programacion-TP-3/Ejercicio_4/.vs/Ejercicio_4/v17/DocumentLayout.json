@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Programacion-TP-3\\Ejercicio_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{886C8358-420E-4ACF-83A9-96D9B9AB99A7}|Ejercicio_4\\Ejercicio_4.csproj|c:\\users\\gary\\documents\\practica\\programacion iii\\programacion-tp-3\\ejercicio_4\\ejercicio_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886C8358-420E-4ACF-83A9-96D9B9AB99A7}|Ejercicio_4\\Ejercicio_4.csproj|solutionrelative:ejercicio_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Programacion-TP-3\\Ejercicio_4\\Ejercicio_4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_4\\Program.cs",
+              "ToolTip": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Programacion-TP-3\\Ejercicio_4\\Ejercicio_4\\Program.cs",
+              "RelativeToolTip": "Ejercicio_4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T04:29:14.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

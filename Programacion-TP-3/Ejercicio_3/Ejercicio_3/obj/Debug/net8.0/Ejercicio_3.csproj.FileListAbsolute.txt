@@ -1,0 +1,15 @@
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_3\Ejercicio_3\bin\Debug\net8.0\Ejercicio_3.exe
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_3\Ejercicio_3\bin\Debug\net8.0\Ejercicio_3.deps.json
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_3\Ejercicio_3\bin\Debug\net8.0\Ejercicio_3.runtimeconfig.json
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_3\Ejercicio_3\bin\Debug\net8.0\Ejercicio_3.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_3\Ejercicio_3\bin\Debug\net8.0\Ejercicio_3.pdb
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\Ejercicio_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\Ejercicio_3.AssemblyInfoInputs.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\Ejercicio_3.AssemblyInfo.cs
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\Ejercicio_3.csproj.CoreCompileInputs.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\Ejercicio_3.sourcelink.json
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\Ejercicio_3.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\refint\Ejercicio_3.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\Ejercicio_3.pdb
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\Ejercicio_3.genruntimeconfig.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Programacion-TP-3\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\ref\Ejercicio_3.dll
