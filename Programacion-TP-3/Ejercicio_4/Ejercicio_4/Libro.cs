@@ -15,6 +15,16 @@ namespace Ejercicio_4
         private string género; 
         private uint ejemplares_disponibles;
 
-        
+        public Libro(string título, string autor, long iSBN, string género, uint ejemplares_disponibles)
+        {
+            this.título = título;
+            this.autor = autor;
+            this.ISBN = iSBN;
+            this.género = género;
+            this.Ejemplares_disponibles = ejemplares_disponibles;
+        }
+
+        public uint Ejemplares_disponibles { get => ejemplares_disponibles; set => ejemplares_disponibles = value; }
+        public long ISBN1 { get => ISBN;}
     }
 }
