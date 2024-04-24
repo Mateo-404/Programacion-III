@@ -9,9 +9,9 @@ namespace Ejercicio_4
 {
     public class Libro
     {
+        private long ISBN;
         private string título;
         private string autor;
-        private long ISBN;
         private string género; 
         private uint ejemplares_disponibles;
 
@@ -26,5 +26,8 @@ namespace Ejercicio_4
 
         public uint Ejemplares_disponibles { get => ejemplares_disponibles; set => ejemplares_disponibles = value; }
         public long ISBN1 { get => ISBN;}
+        public string Título { get => título;}
+        public string Autor { get => autor;}
+        public string Género { get => género;}
     }
 }

@@ -32,3 +32,23 @@ Se debe crear una clase llamada `Constantes` con las siguientes constantes está
 ### Ejercicio 4: Ejercicio práctico
 
 Se debe crear una aplicación para gestionar una biblioteca con las clases `Libro`, `Prestamo` y `Biblioteca`. La clase `Biblioteca` debe tener métodos estáticos para agregar un nuevo libro a la biblioteca, buscar un libro por ISBN, prestar un libro, devolver un libro, mostrar la lista de libros disponibles y mostrar la lista de libros prestados.
+
+### Clases:
+- **Libro**: Atributos como título, autor, ISBN, género y número de ejemplares disponibles[^1^][1].
+- **Préstamo**: Atributos como fecha de préstamo, fecha de devolución, libro prestado y lector[^2^][2].
+
+### Clase Biblioteca:
+- Método estático para **agregar un nuevo libro**.
+- Método estático para **buscar un libro por ISBN**.
+- Método estático para **prestar un libro**[^3^][3].
+- Método estático para **devolver un libro**[^4^][4].
+- Método estático para **mostrar la lista de libros disponibles**[^5^][5].
+- Método estático para **mostrar la lista de libros prestados**.
+
+### Menú Principal:
+- **Agregar un nuevo libro**[^6^][6].
+- **Buscar un libro por ISBN**[^9^][9].
+- **Prestar un libro**[^7^][7].
+- **Devolver un libro**[^8^][8].
+- **Mostrar la lista de libros disponibles**[^10^][10].
+- **Mostrar la lista de libros prestados**[^11^][11].

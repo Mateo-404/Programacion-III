@@ -23,5 +23,7 @@ namespace Ejercicio_4
 
         public Libro Libro_prestado { get => libro_prestado; }
         public string Lector { get => lector;}
+        public DateTime Fecha_prestamo { get => fecha_prestamo;}
+        public DateTime Fecha_devolucion { get => fecha_devolucion;}
     }
 }
