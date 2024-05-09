@@ -1,0 +1,17 @@
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\bin\Debug\net8.0-windows\Formulario-prueba.exe
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\bin\Debug\net8.0-windows\Formulario-prueba.deps.json
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\bin\Debug\net8.0-windows\Formulario-prueba.runtimeconfig.json
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\bin\Debug\net8.0-windows\Formulario-prueba.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\bin\Debug\net8.0-windows\Formulario-prueba.pdb
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\obj\Debug\net8.0-windows\Formulario_prueba.Form1.resources
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\obj\Debug\net8.0-windows\Formulario-prueba.csproj.GenerateResource.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\obj\Debug\net8.0-windows\Formulario-prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\obj\Debug\net8.0-windows\Formulario-prueba.AssemblyInfoInputs.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\obj\Debug\net8.0-windows\Formulario-prueba.AssemblyInfo.cs
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\obj\Debug\net8.0-windows\Formulario-prueba.csproj.CoreCompileInputs.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\obj\Debug\net8.0-windows\Formulario-prueba.sourcelink.json
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\obj\Debug\net8.0-windows\Formulario-prueba.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\obj\Debug\net8.0-windows\refint\Formulario-prueba.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\obj\Debug\net8.0-windows\Formulario-prueba.pdb
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\obj\Debug\net8.0-windows\Formulario-prueba.genruntimeconfig.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\Formulario-prueba\Formulario-prueba\obj\Debug\net8.0-windows\ref\Formulario-prueba.dll
