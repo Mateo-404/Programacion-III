@@ -1,0 +1,15 @@
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\28-05-Excepciones\28-05-Excepciones\bin\Debug\net8.0\28-05-Excepciones.exe
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\28-05-Excepciones\28-05-Excepciones\bin\Debug\net8.0\28-05-Excepciones.deps.json
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\28-05-Excepciones\28-05-Excepciones\bin\Debug\net8.0\28-05-Excepciones.runtimeconfig.json
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\28-05-Excepciones\28-05-Excepciones\bin\Debug\net8.0\28-05-Excepciones.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\28-05-Excepciones\28-05-Excepciones\bin\Debug\net8.0\28-05-Excepciones.pdb
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\28-05-Excepciones\28-05-Excepciones\obj\Debug\net8.0\28-05-Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\28-05-Excepciones\28-05-Excepciones\obj\Debug\net8.0\28-05-Excepciones.AssemblyInfoInputs.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\28-05-Excepciones\28-05-Excepciones\obj\Debug\net8.0\28-05-Excepciones.AssemblyInfo.cs
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\28-05-Excepciones\28-05-Excepciones\obj\Debug\net8.0\28-05-Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\28-05-Excepciones\28-05-Excepciones\obj\Debug\net8.0\28-05-Excepciones.sourcelink.json
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\28-05-Excepciones\28-05-Excepciones\obj\Debug\net8.0\28-05-Excepciones.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\28-05-Excepciones\28-05-Excepciones\obj\Debug\net8.0\refint\28-05-Excepciones.dll
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\28-05-Excepciones\28-05-Excepciones\obj\Debug\net8.0\28-05-Excepciones.pdb
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\28-05-Excepciones\28-05-Excepciones\obj\Debug\net8.0\28-05-Excepciones.genruntimeconfig.cache
+C:\Users\Gary\Documents\Practica\Programacion III\Clase\28-05-Excepciones\28-05-Excepciones\obj\Debug\net8.0\ref\28-05-Excepciones.dll
