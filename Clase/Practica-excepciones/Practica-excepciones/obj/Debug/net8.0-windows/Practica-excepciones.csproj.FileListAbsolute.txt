@@ -1,0 +1,17 @@
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\bin\Debug\net8.0-windows\Practica-excepciones.exe
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\bin\Debug\net8.0-windows\Practica-excepciones.deps.json
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\bin\Debug\net8.0-windows\Practica-excepciones.runtimeconfig.json
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\bin\Debug\net8.0-windows\Practica-excepciones.dll
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\bin\Debug\net8.0-windows\Practica-excepciones.pdb
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\obj\Debug\net8.0-windows\Practica_excepciones.Form1.resources
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\obj\Debug\net8.0-windows\Practica-excepciones.csproj.GenerateResource.cache
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\obj\Debug\net8.0-windows\Practica-excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\obj\Debug\net8.0-windows\Practica-excepciones.AssemblyInfoInputs.cache
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\obj\Debug\net8.0-windows\Practica-excepciones.AssemblyInfo.cs
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\obj\Debug\net8.0-windows\Practica-excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\obj\Debug\net8.0-windows\Practica-excepciones.sourcelink.json
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\obj\Debug\net8.0-windows\Practica-excepciones.dll
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\obj\Debug\net8.0-windows\refint\Practica-excepciones.dll
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\obj\Debug\net8.0-windows\Practica-excepciones.pdb
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\obj\Debug\net8.0-windows\Practica-excepciones.genruntimeconfig.cache
+C:\Users\Grary\Documents\GitHub\Programacion-III-UTN\Clase\Practica-excepciones\Practica-excepciones\obj\Debug\net8.0-windows\ref\Practica-excepciones.dll
