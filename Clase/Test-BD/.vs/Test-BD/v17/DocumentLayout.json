@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Test-BD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0049D6-5377-4DD2-A92F-88ECD992AEE1}|Test-BD\\Test-BD.csproj|c:\\users\\gary\\documents\\practica\\programacion iii\\clase\\test-bd\\test-bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0049D6-5377-4DD2-A92F-88ECD992AEE1}|Test-BD\\Test-BD.csproj|solutionrelative:test-bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0049D6-5377-4DD2-A92F-88ECD992AEE1}|Test-BD\\Test-BD.csproj|C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Test-BD\\test-bd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0049D6-5377-4DD2-A92F-88ECD992AEE1}|Test-BD\\Test-BD.csproj|solutionrelative:test-bd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0049D6-5377-4DD2-A92F-88ECD992AEE1}|Test-BD\\Test-BD.csproj|C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Test-BD\\test-bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C0049D6-5377-4DD2-A92F-88ECD992AEE1}|Test-BD\\Test-BD.csproj|solutionrelative:test-bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0049D6-5377-4DD2-A92F-88ECD992AEE1}|Test-BD\\Test-BD.csproj|C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Test-BD\\test-bd\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9C0049D6-5377-4DD2-A92F-88ECD992AEE1}|Test-BD\\Test-BD.csproj|solutionrelative:test-bd\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Test-BD\\Test-BD\\App.config",
+              "RelativeDocumentMoniker": "Test-BD\\App.config",
+              "ToolTip": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Test-BD\\Test-BD\\App.config",
+              "RelativeToolTip": "Test-BD\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-25T22:27:21.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Test-BD\\Test-BD\\Form1.cs",
+              "RelativeDocumentMoniker": "Test-BD\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Test-BD\\Test-BD\\Form1.cs",
+              "RelativeToolTip": "Test-BD\\Form1.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDEAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:43:31.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Test-BD\\Test-BD\\Program.cs",
+              "RelativeDocumentMoniker": "Test-BD\\Program.cs",
+              "ToolTip": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Test-BD\\Test-BD\\Program.cs",
+              "RelativeToolTip": "Test-BD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:11:38.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Test-BD\\Test-BD\\Form1.cs",
+              "RelativeDocumentMoniker": "Test-BD\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Test-BD\\Test-BD\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Test-BD\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:11:31.756Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

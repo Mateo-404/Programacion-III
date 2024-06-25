@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Grary\\Documents\\GitHub\\Programacion-III-UTN\\Clase\\Practica-excepciones\\",
+  "WorkspaceRootPath": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Practica-excepciones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C259C3E4-37C9-4B4C-8FBE-D820582D0374}|Practica-excepciones\\Practica-excepciones.csproj|c:\\users\\grary\\documents\\github\\programacion-iii-utn\\clase\\practica-excepciones\\practica-excepciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C259C3E4-37C9-4B4C-8FBE-D820582D0374}|Practica-excepciones\\Practica-excepciones.csproj|c:\\users\\gary\\documents\\practica\\programacion iii\\clase\\practica-excepciones\\practica-excepciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C259C3E4-37C9-4B4C-8FBE-D820582D0374}|Practica-excepciones\\Practica-excepciones.csproj|solutionrelative:practica-excepciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C259C3E4-37C9-4B4C-8FBE-D820582D0374}|Practica-excepciones\\Practica-excepciones.csproj|c:\\users\\grary\\documents\\github\\programacion-iii-utn\\clase\\practica-excepciones\\practica-excepciones\\parametrosvaciosexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C259C3E4-37C9-4B4C-8FBE-D820582D0374}|Practica-excepciones\\Practica-excepciones.csproj|c:\\users\\gary\\documents\\practica\\programacion iii\\clase\\practica-excepciones\\practica-excepciones\\parametrosvaciosexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C259C3E4-37C9-4B4C-8FBE-D820582D0374}|Practica-excepciones\\Practica-excepciones.csproj|solutionrelative:practica-excepciones\\parametrosvaciosexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C259C3E4-37C9-4B4C-8FBE-D820582D0374}|Practica-excepciones\\Practica-excepciones.csproj|C:\\Users\\Grary\\Documents\\GitHub\\Programacion-III-UTN\\Clase\\Practica-excepciones\\practica-excepciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C259C3E4-37C9-4B4C-8FBE-D820582D0374}|Practica-excepciones\\Practica-excepciones.csproj|c:\\users\\gary\\documents\\practica\\programacion iii\\clase\\practica-excepciones\\practica-excepciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C259C3E4-37C9-4B4C-8FBE-D820582D0374}|Practica-excepciones\\Practica-excepciones.csproj|solutionrelative:practica-excepciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C259C3E4-37C9-4B4C-8FBE-D820582D0374}|Practica-excepciones\\Practica-excepciones.csproj|C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Practica-excepciones\\practica-excepciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C259C3E4-37C9-4B4C-8FBE-D820582D0374}|Practica-excepciones\\Practica-excepciones.csproj|solutionrelative:practica-excepciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,41 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Practica-excepciones\\Practica-excepciones\\Program.cs",
+              "RelativeDocumentMoniker": "Practica-excepciones\\Program.cs",
+              "ToolTip": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Practica-excepciones\\Practica-excepciones\\Program.cs",
+              "RelativeToolTip": "Practica-excepciones\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:11:51.552Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ParametrosVaciosException.cs",
-              "DocumentMoniker": "C:\\Users\\Grary\\Documents\\GitHub\\Programacion-III-UTN\\Clase\\Practica-excepciones\\Practica-excepciones\\ParametrosVaciosException.cs",
+              "DocumentMoniker": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Practica-excepciones\\Practica-excepciones\\ParametrosVaciosException.cs",
               "RelativeDocumentMoniker": "Practica-excepciones\\ParametrosVaciosException.cs",
-              "ToolTip": "C:\\Users\\Grary\\Documents\\GitHub\\Programacion-III-UTN\\Clase\\Practica-excepciones\\Practica-excepciones\\ParametrosVaciosException.cs",
+              "ToolTip": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Practica-excepciones\\Practica-excepciones\\ParametrosVaciosException.cs",
               "RelativeToolTip": "Practica-excepciones\\ParametrosVaciosException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T20:42:18.414Z"
+              "WhenOpened": "2024-06-04T20:42:18.414Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Grary\\Documents\\GitHub\\Programacion-III-UTN\\Clase\\Practica-excepciones\\Practica-excepciones\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Practica-excepciones\\Practica-excepciones\\Form1.cs",
               "RelativeDocumentMoniker": "Practica-excepciones\\Form1.cs",
-              "ToolTip": "C:\\Users\\Grary\\Documents\\GitHub\\Programacion-III-UTN\\Clase\\Practica-excepciones\\Practica-excepciones\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Practica-excepciones\\Practica-excepciones\\Form1.cs",
               "RelativeToolTip": "Practica-excepciones\\Form1.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAwwCkAAAAwAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBsAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T19:48:12.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Grary\\Documents\\GitHub\\Programacion-III-UTN\\Clase\\Practica-excepciones\\Practica-excepciones\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gary\\Documents\\Practica\\Programacion III\\Clase\\Practica-excepciones\\Practica-excepciones\\Form1.cs",
               "RelativeDocumentMoniker": "Practica-excepciones\\Form1.cs",
               "ToolTip": "C:\\Users\\Grary\\Documents\\GitHub\\Programacion-III-UTN\\Clase\\Practica-excepciones\\Practica-excepciones\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Practica-excepciones\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Grary\\Documents\\GitHub\\Programacion-III-UTN\\Clase\\Practica-excepciones\\Practica-excepciones\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T19:46:44.903Z"
             }
